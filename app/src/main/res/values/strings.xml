@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">LIVES</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button1">Explore</string>
+    <string name="text0">List of Endangered Animals</string>
+    <string name="text1">1.Bengal Tiger</string>
+    <string name="text4">2.Snow Leopard</string>
+    <string name="text5">3.Nilgiri Tahr</string>
+    <string name="text6">"4.Kashmiri Red Stag "</string>
+    <string name="text7">5.Asiatic Lion</string>
+    <string name="text8">6.Blackbuck</string>
+    <string name="text2">Bengal Tiger</string>
+    <string name="tiger">The Bengal tiger is a Panthera tigris population native to the Indian subcontinent.
+It is threatened by poaching, loss, and fragmentation of habitat, and was estimated at comprising fewer than 2,500 individuals by 2011. None of the Tiger Conservation Landscapes within its range is considered large enough to support an effective population of more than 250 adult individuals.India\'s tiger population was estimated at 1,706–1,909 individuals in 2010.By 2018, the population had increased to an estimated 2,603–3,346 individuals.Around 440 tigers are estimated in Bangladesh, 163–253 tigers in Nepal and 103 tigers in Bhutan.
+The tiger is estimated to be present in the Indian subcontinent since the Late Pleistocene, for about 12,000 to 16,500 years.
+The Bengal tiger ranks among the biggest wild cats alive today. It is considered to belong to the world charismatic megafauna.It is the national animal of both India and Bangladesh.It is also known as the Royal Bengal tiger.</string>
+    <string name="text10">Snow Leopard</string>
+    <string name="SnowLeopard">Snow Leopard</string>
+    <string name="leopard">The snow leopard (Panthera uncia), also known as the ounce, is a large cat native to the mountain ranges of Central and South Asia. It is listed as Vulnerable on the IUCN Red List because the global population is estimated to number less than 10,000 mature individuals and is expected to decline about 10% by 2040. It is threatened by poaching and habitat destruction following infrastructural developments.It inhabits alpine and subalpine zones at elevations from 3,000 to 4,500 m (9,800 to 14,800 ft), ranging from eastern Afghanistan to Mongolia and western China. In the northern range countries, it also lives at lower elevations.
+
+Taxonomically, the snow leopard was long classified in the monotypic genus Uncia.Since phylogenetic studies revealed the relationships among Panthera species, it is considered a member of this genus.Two subspecies were described based on morphological differences, but genetic differences between the two have not been confirmed. It is therefore regarded a monotypic species.</string>
+    <string name="NilgiriTahr">Nilgiri Tahr</string>
+    <string name="tahr">The Nilgiri tahr symbolizes the conflicts inherent in conservation of threatened fauna and their habitat. Their number totals around 2200–2500 individuals in the wild. Nilgiri tahrs exist only in small, isolated populations due to extreme habitat fragmentation and illegal hunting. They are, as a result, vulnerable to local extinction. The reasons for the decline of tahr populations have not been fully understood. Despite several studies over the years, there are only rough estimations of Nilgiri tahr populations. The species has always been under severe stress on account of the construction of numerous hydroelectric projects, timber felling and monoculture plantation of eucalyptus and wattles. All these development activities, especially the plantation activities affect the heart of the tahr habitat, which are the grasslands – sholas. </string>
+    <string name="KashmiriRedStag">Kashmiri Red Stag</string>
+    <string name="stag">The Kashmir stag (Cervus canadensis hanglu), also called hangul, is a subspecies of elk native to India. It is found in dense riverine forests in the high valleys and mountains of the Kashmir Valley and northern Chamba district in Himachal Pradesh. In Kashmir, it\'s found in the Dachigam National Park where it receives protection but elsewhere it is more at risk. In the 1940s, the population was between 3000 and 5000 individuals, but since then habitat destruction, over-grazing by domestic livestock and poaching have reduced population dramatically. Earlier believed to be a subspecies of red deer (Cervus elaphus), a number of mitochondrial DNA genetic studies have revealed that the hangul is part of the Asian clade of the elk (Cervus canadensis).The IUCN, however, includes it in the new grouping of Central Asian red deer (Cervus hanglu), with the Kashmir stag being the type subspecies (Cervus hanglu hanglu). According to the census in 2019, there were only 237 Hanguls</string>
+    <string name="lion">The Asiatic lion is a Panthera leo population in India. Its current range is restricted to the Gir National Park and environs in the Indian state of Gujarat. Historically, it inhabited much of Western Asia and the Middle East up to northern India. On the IUCN Red List, it is listed under its former scientific name Panthera leo persica as Endangered because of its small population size and area of occupancy.
+
+The first scientific description of the Asiatic lion was published in 1826 by the Austrian zoologist Johann N. Meyer who named it Felis leo persicus.Until the 19th century, it occurred in Saudi Arabia eastern Turkey, Iran, Mesopotamia, and from east of the Indus River to Bengal and Narmada River in Central India.Since the turn of the 20th century, it is restricted to the Gir Forest National Park and surrounding areas.This lion population has steadily increased since 2010. In May 2015, the 14th Asiatic Lion Census was conducted over an area of about 20,000 km2 (7,700 sq mi); the lion population was estimated at 523 individuals, comprising 109 adult males, 201 adult females and 213 cubs.In August 2017, surveyors counted 650 wild lions.
+
+The lion is one of five pantherine cats inhabiting India, along with the Bengal tiger, Indian leopard, snow leopardand clouded leopard (Neofelis nebulosa).It was also known as the "Indian lion" and the "Persian lion".</string>
+    <string name="AsiaticLion">Asiatic Lion</string>
+    <string name="b">The blackbuck (Antilope cervicapra), also known as the Indian antelope, is an antelope found in India, Nepal, and Pakistan. The blackbuck is the sole extant member of the genus Antilope. The species was described and given its binomial name by Swedish zoologist Carl Linnaeus in 1758. Two subspecies are recognized. It stands up to 74 to 84 cm (29 to 33 in) high at the shoulder. Males weigh 20–57 kg (44–126 lb), an average of 38 kilograms (84 lb). Females are lighter, weighing 20–33 kg (44–73 lb) or 27 kg (60 lb) on average. The long, ringed horns, 35–75 cm (14–30 in) long, are generally present only on males, though females may develop horns, as well. The white fur on the chin and around the eyes is in sharp contrast with the black stripes on the face. The coats of males show two-tone colouration; while the upper parts and outsides of the legs are dark brown to black, the underparts and the insides of the legs are all white. However, females and juveniles are yellowish fawn to tan.
+
+The blackbuck is a diurnal antelope (active mainly during the day). Three kinds of groups, typically small, are the female, male, and bachelor herds. Males often adopt lekking as a strategy to garner females for mating. While other males are not allowed into these territories, females often visit these places to forage. The male can thus attempt mating with her. As herbivores, blackbuck graze on low grasses, occasionally browsing, as well. Females become sexually mature at 8 months old, but mate no earlier than 2 years. Males mature later, at 1 1/2 years. Mating takes place throughout the year. Gestation is typically 6 months long, after which a single calf is born. The lifespan is typically 10 to 15 years.
+
+The blackbuck inhabits grassy plains and slightly forested areas. Due to their regular need of water, they prefer areas where water is perennially available.
+
+The antelope is native to and found mainly in India, while it is extinct in Bangladesh. Formerly widespread, only small, scattered herds are seen today, largely confined to protected areas. During the 20th century, blackbuck numbers declined sharply due to excessive hunting, deforestation, and habitat degradation. The blackbuck has been introduced in Argentina and the United States. In India, hunting of blackbuck is prohibited under Schedule I of the Wildlife Protection Act of 1972. The blackbuck has significance in Hinduism; Indian and Nepali villagers do not harm the antelope. </string>
+    <string name="Blackbuck">Blackbuck</string>
+    <string name="GiantPanda">Giant Panda</string>
+    <string name="panda">
+
+The panda, with its distinctive black and white coat, is adored by the world and considered a national treasure in China.
+
+Pandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo. They must eat around 26 to 84 pounds of it every day, depending on what part of the bamboo they are eating. They use their enlarged wrist bones that function as opposable thumbs.
+
+A newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk.
+The biological diversity of the panda’s habitat is unparalleled in the temperate world and rivals that of tropical ecosystems, making the giant panda an excellent example of an umbrella species conferring protection on many other species where pandas live. In other words, when we protect pandas, we invariably protect other animals that live around them, such as multicolored pheasants, the golden monkey, takin, and crested ibis. Pandas also bring sustainable economic benefits to many local communities through ecotourism.
+    </string>
+    <string name="t1">7.GIANT PANDA</string>
+    <string name="T2">8.SEA TURTLE</string>
+    <string name="t3">9.SIBERIAN CRANE</string>
+    <string name="t4">10.GREAT WHITE SHARK</string>
+    <string name="t5">8.SEA TURTLE</string>
+    <string name="sea">Seven different species of sea (or marine) turtles grace our ocean waters, from the shallow seagrass beds of the Indian Ocean, to the colorful reefs of the Coral Triangle and the sandy beaches of the Eastern Pacific. While these highly migratory species periodically come ashore to either bask or nest, sea turtles spend the bulk of their lives in the ocean. WWF\'s work on sea turtles focuses on five of those species: green, hawksbill, loggerhead, leatherback, and olive ridley.
+
+Over the last 200 years, human activities have tipped the scales against the survival of these ancient mariners. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture—known as bycatch—in fishing gear. Climate change has an impact on turtle nesting sites; it alters sand temperatures, which then affects the sex of hatchlings. Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered.
+
+WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
+    Sea turtles are a fundamental link in marine ecosystems. They help maintain the health of
+    seagrass beds and coral reefs that benefit commercially valuable species such as shrimp,
+    lobster, and tuna. Sea turtles are the live representatives of a group of reptiles that have
+    existed on Earth and traveled our seas for the last 100 million years. Turtles have major
+    cultural significance and tourism value. Five of the seven species are found around the world,
+    mainly in tropical and subtropical waters.</string>
+    <string name="SeaTurtle">Sea Turtle</string>
+    <string name="p">Choose to Learn</string>
+    <string name="SiberianCrane">Siberian Crane</string>
+    <string name="crane">The Siberian crane (Leucogeranus leucogeranus), also known as the Siberian white crane or the snow crane, is a bird of the family Gruidae, the cranes. They are distinctive among the cranes, adults are nearly all snowy white, except for their black primary feathers that are visible in flight and with two breeding populations in the Arctic tundra of western and eastern Russia. The eastern populations migrate during winter to China while the western population winters in Iran and formerly, in Bharatpur, India .
+
+Among the cranes, they make the longest distance migrations. Their populations, particularly those in the western range, have declined drastically in the 20th century due to hunting along their migration routes and habitat degradation. The world population was estimated in 2010 at about 3,200 birds, mostly belonging to the eastern population with about 95% of them wintering in the Poyang Lake basin in China, a habitat that may be altered by the Three Gorges Dam. In western Siberia there are only around ten of these cranes in the wild.</string>
+    <string name="whale">The Great white shark is the world\'s largest known predatory fish. It has 300 teeth, yet does not chew its food. Sharks rip their prey into mouth-sized pieces which are swallowed whole. The shark’s heavy, torpedo-shaped body allows it to cruise efficiently for long periods of time, and then suddenly switch to high speed bursts in pursuit of prey—sometimes leaping out of the water. It feeds on a broad spectrum of prey, from small fish, such as halibut, to large seals and dolphins.
+As large and powerful predators, great white sharks play an important role at the top of the marine food chain. Despite its fame and reputation, little is actually known about the great white shark’s biology and behavior.
+Great white sharks are decreasing in numbers and are rare due to years of being hunted by man for fins and teeth, and often as a trophy for sport fishing. The white shark is often caught as bycatch by commercial fisheries and can also become entangled in meshes that protect beaches.</string>
+    <string name="GreatWhiteShark">Great White Shark</string>
+    <string name="u">Choose to Learn</string>
+    <string name="menu">Menu</string>
+</resources>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/blankFragment">
+
+    <fragment
+        android:id="@+id/blankFragment"
+        android:name="com.example.android.test1.BlankFragment"
+        android:label="BlankFragment"
+        tools:layout="@layout/fragment_blank">
+        <action
+            android:id="@+id/action_blankFragment_to_entry0"
+            app:destination="@id/entry0" />
+    </fragment>
+    <fragment
+        android:id="@+id/entry0"
+        android:name="com.example.android.test1.entry0"
+        android:label="fragment_entry0"
+        tools:layout="@layout/fragment_entry0" >
+        <action
+            android:id="@+id/action_entry0_to_entry2Fragment"
+            app:destination="@id/entry2Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry3Fragment"
+            app:destination="@id/entry3Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry4Fragment"
+            app:destination="@id/entry4Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry5Fragment"
+            app:destination="@id/entry5Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry6Fragment"
+            app:destination="@id/entry6Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry7Fragment"
+            app:destination="@id/entry7Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry8Fragment"
+            app:destination="@id/entry8Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry9Fragment"
+            app:destination="@id/entry9Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry10Fragment"
+            app:destination="@id/entry10Fragment" />
+        <action
+            android:id="@+id/action_entry0_to_entry11Fragment"
+            app:destination="@id/entry11Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/entry2Fragment"
+        android:name="com.example.android.test1.entry2Fragment"
+        android:label="fragment_entry2"
+        tools:layout="@layout/fragment_entry2" />
+    <fragment
+        android:id="@+id/entry3Fragment"
+        android:name="com.example.android.test1.entry3Fragment"
+        android:label="fragment_entry3"
+        tools:layout="@layout/fragment_entry3" />
+    <fragment
+        android:id="@+id/entry4Fragment"
+        android:name="com.example.android.test1.entry4Fragment"
+        android:label="fragment_entry4"
+        tools:layout="@layout/fragment_entry4" />
+    <fragment
+        android:id="@+id/entry5Fragment"
+        android:name="com.example.android.test1.entry5Fragment"
+        android:label="fragment_entry5"
+        tools:layout="@layout/fragment_entry5" />
+    <fragment
+        android:id="@+id/entry6Fragment"
+        android:name="com.example.android.test1.entry6Fragment"
+        android:label="fragment_entry6"
+        tools:layout="@layout/fragment_entry6" />
+    <fragment
+        android:id="@+id/entry7Fragment"
+        android:name="com.example.android.test1.entry7Fragment"
+        android:label="fragment_entry7"
+        tools:layout="@layout/fragment_entry7" />
+    <fragment
+        android:id="@+id/entry8Fragment"
+        android:name="com.example.android.test1.entry8Fragment"
+        android:label="fragment_entry8"
+        tools:layout="@layout/fragment_entry8" />
+    <fragment
+        android:id="@+id/entry9Fragment"
+        android:name="com.example.android.test1.entry9Fragment"
+        android:label="fragment_entry9"
+        tools:layout="@layout/fragment_entry9" />
+    <fragment
+        android:id="@+id/entry10Fragment"
+        android:name="com.example.android.test1.entry10Fragment"
+        android:label="fragment_entry10"
+        tools:layout="@layout/fragment_entry10" />
+    <fragment
+        android:id="@+id/entry11Fragment"
+        android:name="com.example.android.test1.entry11Fragment"
+        android:label="fragment_entry11"
+        tools:layout="@layout/fragment_entry11" />
+</navigation>
